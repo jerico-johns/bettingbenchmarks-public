@@ -10,7 +10,7 @@
 
 Betting Benchmarks aggregates public NFL prediction models, tracks their picks across every game, and ranks them in a composite accuracy leaderboard. It also includes a proprietary ML model that consistently outperforms market lines.
 
-**800 monthly active users.** Mentioned by [NFElo](https://nfelo.espn.com/) and used by analysts at ESPN.
+**800 monthly active users.** Mentioned by [NFElo](https://www.nfeloapp.com/) and used by analysts at ESPN.
 
 ## How it works
 
